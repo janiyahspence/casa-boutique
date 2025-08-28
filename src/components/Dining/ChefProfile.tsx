@@ -14,11 +14,11 @@ import {
 
 const ChefProfile: React.FC = () => {
   const chef = {
-    name: 'Meera Patel',
+    name: 'Kiara Sharma',
     title: 'Executive Chef',
     experience: '12+ years',
     image: 'https://images.pexels.com/photos/3785077/pexels-photo-3785077.jpeg?auto=compress&cs=tinysrgb&w=600&h=600&fit=crop',
-    bio: 'Chef Meera Patel brings over 12 years of culinary excellence to Casa Boutique, specializing in contemporary Indian cuisine that honors traditional flavors while embracing modern techniques. Her passion for Mumbai\'s street food culture and commitment to local ingredients has earned her recognition as one of India\'s most innovative chefs.',
+    bio: 'Chef Kiara Sharma brings over 12 years of culinary excellence to Casa Boutique, specializing in contemporary Indian cuisine that honors traditional flavors while embracing modern techniques. Her passion for Mumbai\'s street food culture and commitment to local ingredients has earned her recognition as one of India\'s most innovative chefs.',
     philosophy: 'Food is the fastest way to understand a culture. Every dish should tell a story of its origin while creating new memories for those who taste it.',
     specialties: [
       'Contemporary Indian Cuisine',
@@ -241,7 +241,7 @@ const ChefProfile: React.FC = () => {
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <button className="bg-white text-electric-blue px-8 py-4 rounded-full font-semibold hover:bg-cream transition-colors">
                 <ChefHat size={20} className="inline mr-2" />
-                Book Cooking Class - ₹3,500
+                Book Cooking Class with Chef Kiara - ₹3,500
               </button>
               <button className="border-2 border-white text-white px-8 py-4 rounded-full font-semibold hover:bg-white hover:text-electric-blue transition-colors">
                 <Heart size={20} className="inline mr-2" />

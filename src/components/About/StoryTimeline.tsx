@@ -9,7 +9,7 @@ const StoryTimeline: React.FC = () => {
       year: 2019,
       title: 'The Vision',
       subtitle: 'A Dream Takes Shape',
-      description: 'Founded by cultural enthusiasts Arjun and Priya Sharma, Casa Boutique began as a vision to create authentic Mumbai experiences for discerning travelers.',
+      description: 'Founded by cultural enthusiasts Aarav Mehra and Aanya Mehta, Casa Boutique began as a vision to create authentic Mumbai experiences for discerning travelers.',
       icon: Lightbulb,
       color: 'coral',
       image: 'https://images.pexels.com/photos/1194420/pexels-photo-1194420.jpeg?auto=compress&cs=tinysrgb&w=600&h=400&fit=crop',

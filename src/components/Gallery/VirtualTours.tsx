@@ -30,7 +30,7 @@ const VirtualTours: React.FC = () => {
       thumbnail: 'https://images.pexels.com/photos/271618/pexels-photo-271618.jpeg?auto=compress&cs=tinysrgb&w=600&h=400&fit=crop',
       description: 'Immersive 360° tour of our flagship Heritage Suite showcasing traditional Indian décor and modern amenities',
       highlights: ['Living Area', 'Bedroom', 'Marble Bathroom', 'Private Balcony'],
-      narrator: 'Priya Sharma, Creative Director',
+      narrator: 'Aanya Mehta, Creative Director',
       languages: ['English', 'Hindi'],
       featured: true,
       color: 'coral'
@@ -45,7 +45,7 @@ const VirtualTours: React.FC = () => {
       thumbnail: 'https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&w=600&h=400&fit=crop',
       description: 'Behind-the-scenes tour of our award-winning restaurant and kitchen with Chef Meera Patel',
       highlights: ['Main Dining', 'Chef\'s Kitchen', 'Wine Cellar', 'Private Dining'],
-      narrator: 'Chef Meera Patel',
+      narrator: 'Chef Kiara Sharma',
       languages: ['English', 'Hindi'],
       featured: true,
       color: 'emerald'
@@ -60,7 +60,7 @@ const VirtualTours: React.FC = () => {
       thumbnail: 'https://images.pexels.com/photos/1194420/pexels-photo-1194420.jpeg?auto=compress&cs=tinysrgb&w=600&h=400&fit=crop',
       description: 'Virtual journey through Mumbai\'s art galleries and artist studios with our cultural guide',
       highlights: ['Kala Ghoda Gallery', 'Artist Studios', 'Street Art', 'Cultural Stories'],
-      narrator: 'Vikram Singh, Cultural Guide',
+      narrator: 'Arjun Sinha, Cultural Guide',
       languages: ['English', 'Hindi', 'Marathi'],
       featured: false,
       color: 'royal-purple'

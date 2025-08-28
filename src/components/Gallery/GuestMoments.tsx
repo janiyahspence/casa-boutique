@@ -29,7 +29,7 @@ const GuestMoments: React.FC = () => {
     {
       id: 1,
       guest: {
-        name: 'Priya & Arjun',
+        name: 'Ira Bansal & Riaan Malhotra',
         location: 'Delhi, India',
         avatar: 'https://images.pexels.com/photos/3785079/pexels-photo-3785079.jpeg?auto=compress&cs=tinysrgb&w=100&h=100&fit=crop',
         verified: true
@@ -69,7 +69,7 @@ const GuestMoments: React.FC = () => {
     {
       id: 3,
       guest: {
-        name: 'Rajesh & Family',
+        name: 'Karan Batra & Family',
         location: 'Bangalore, India',
         avatar: 'https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&w=100&h=100&fit=crop',
         verified: true
@@ -78,7 +78,7 @@ const GuestMoments: React.FC = () => {
       occasion: 'Family Dinner',
       date: '2024-01-10',
       image: 'https://images.pexels.com/photos/958545/pexels-photo-958545.jpeg?auto=compress&cs=tinysrgb&w=600&h=600&fit=crop',
-      caption: 'Chef Meera\'s tasting menu was a culinary journey through India! Each dish told a story, and the presentation was artwork. Our kids loved the interactive elements. Highly recommend! 👨‍👩‍👧‍👦',
+      caption: 'Chef Kiara\'s tasting menu was a culinary journey through India! Each dish told a story, and the presentation was artwork. Our kids loved the interactive elements. Highly recommend! 👨‍👩‍👧‍👦',
       likes: 156,
       comments: 15,
       shares: 6,
@@ -98,7 +98,7 @@ const GuestMoments: React.FC = () => {
       occasion: 'Art Walk Experience',
       date: '2024-01-08',
       image: 'https://images.pexels.com/photos/1194420/pexels-photo-1194420.jpeg?auto=compress&cs=tinysrgb&w=600&h=600&fit=crop',
-      caption: 'The Heritage Art Walk opened our eyes to Mumbai\'s incredible artistic community. Meeting local artists in their studios was inspiring. Priya\'s curation of this experience is phenomenal! 🎨',
+      caption: 'The Heritage Art Walk opened our eyes to Mumbai\'s incredible artistic community. Meeting local artists in their studios was inspiring. Aanya\'s curation of this experience is phenomenal! 🎨',
       likes: 142,
       comments: 11,
       shares: 9,
@@ -149,7 +149,7 @@ const GuestMoments: React.FC = () => {
     {
       id: 7,
       guest: {
-        name: 'Ananya Gupta',
+        name: 'Saanvi Joshi',
         location: 'Mumbai, India',
         avatar: 'https://images.pexels.com/photos/3785077/pexels-photo-3785077.jpeg?auto=compress&cs=tinysrgb&w=100&h=100&fit=crop',
         verified: true
@@ -178,7 +178,7 @@ const GuestMoments: React.FC = () => {
       occasion: 'Cooking Class',
       date: '2023-12-28',
       image: 'https://images.pexels.com/photos/1199957/pexels-photo-1199957.jpeg?auto=compress&cs=tinysrgb&w=600&h=600&fit=crop',
-      caption: 'Chef Meera\'s cooking class was incredible! Learning to make authentic Mumbai street food from a master chef was a highlight of my India trip. Taking these recipes home! 👨‍🍳',
+      caption: 'Chef Kiara\'s cooking class was incredible! Learning to make authentic Mumbai street food from a master chef was a highlight of my India trip. Taking these recipes home! 👨‍🍳',
       likes: 134,
       comments: 16,
       shares: 11,

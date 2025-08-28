@@ -75,7 +75,7 @@ const ExperienceGrid: React.FC<ExperienceGridProps> = ({ onExperienceSelect, onB
       languages: ['English', 'Hindi', 'Marathi'],
       availability: 'available',
       guide: {
-        name: 'Ravi Kulkarni',
+        name: 'Reyansh Desai',
         experience: '8 years',
         image: 'https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&w=200&h=200&fit=crop'
       }
@@ -104,7 +104,7 @@ const ExperienceGrid: React.FC<ExperienceGridProps> = ({ onExperienceSelect, onB
       languages: ['English', 'Hindi'],
       availability: 'available',
       guide: {
-        name: 'Priya Mehta',
+        name: 'Tara Malhotra',
         experience: '6 years',
         image: 'https://images.pexels.com/photos/3785079/pexels-photo-3785079.jpeg?auto=compress&cs=tinysrgb&w=200&h=200&fit=crop'
       }
@@ -132,7 +132,7 @@ const ExperienceGrid: React.FC<ExperienceGridProps> = ({ onExperienceSelect, onB
       languages: ['English', 'Hindi'],
       availability: 'limited',
       guide: {
-        name: 'Arjun Kapoor',
+        name: 'Siddharth Nair',
         experience: '12 years',
         image: 'https://images.pexels.com/photos/2182970/pexels-photo-2182970.jpeg?auto=compress&cs=tinysrgb&w=200&h=200&fit=crop'
       }
@@ -160,7 +160,7 @@ const ExperienceGrid: React.FC<ExperienceGridProps> = ({ onExperienceSelect, onB
       languages: ['English'],
       availability: 'available',
       guide: {
-        name: 'Vikram Singh',
+        name: 'Neil Joshi',
         experience: '10 years',
         image: 'https://images.pexels.com/photos/2379005/pexels-photo-2379005.jpeg?auto=compress&cs=tinysrgb&w=200&h=200&fit=crop'
       }
@@ -187,7 +187,7 @@ const ExperienceGrid: React.FC<ExperienceGridProps> = ({ onExperienceSelect, onB
       languages: ['English', 'Hindi'],
       availability: 'available',
       guide: {
-        name: 'Suresh Patil',
+        name: 'Omkar Shetty',
         experience: '15 years',
         image: 'https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&w=200&h=200&fit=crop'
       }
@@ -215,7 +215,7 @@ const ExperienceGrid: React.FC<ExperienceGridProps> = ({ onExperienceSelect, onB
       languages: ['English', 'Hindi'],
       availability: 'available',
       guide: {
-        name: 'Captain Ramesh',
+        name: 'Captain Yuvan Menon',
         experience: '20 years',
         image: 'https://images.pexels.com/photos/2182970/pexels-photo-2182970.jpeg?auto=compress&cs=tinysrgb&w=200&h=200&fit=crop'
       }

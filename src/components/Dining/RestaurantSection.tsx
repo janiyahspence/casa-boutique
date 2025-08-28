@@ -31,6 +31,7 @@ const RestaurantSection: React.FC = () => {
         price: 1200,
         image: 'https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&w=400&h=300&fit=crop',
         chef: 'Chef Meera Patel',
+        chef: 'Chef Kiara Sharma',
         rating: 4.9,
         spicy: 2,
         vegetarian: true,
@@ -43,6 +44,7 @@ const RestaurantSection: React.FC = () => {
         price: 950,
         image: 'https://images.pexels.com/photos/958545/pexels-photo-958545.jpeg?auto=compress&cs=tinysrgb&w=400&h=300&fit=crop',
         chef: 'Chef Meera Patel',
+        chef: 'Chef Kiara Sharma',
         rating: 4.8,
         spicy: 3,
         vegetarian: false,
@@ -55,6 +57,7 @@ const RestaurantSection: React.FC = () => {
         price: 850,
         image: 'https://images.pexels.com/photos/1199957/pexels-photo-1199957.jpeg?auto=compress&cs=tinysrgb&w=400&h=300&fit=crop',
         chef: 'Chef Meera Patel',
+        chef: 'Chef Kiara Sharma',
         rating: 4.9,
         spicy: 2,
         vegetarian: false,
@@ -69,6 +72,7 @@ const RestaurantSection: React.FC = () => {
         price: 320,
         image: 'https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&w=400&h=300&fit=crop',
         chef: 'Chef Meera Patel',
+        chef: 'Chef Kiara Sharma',
         rating: 4.7,
         spicy: 2,
         vegetarian: true,
@@ -81,6 +85,7 @@ const RestaurantSection: React.FC = () => {
         price: 280,
         image: 'https://images.pexels.com/photos/958545/pexels-photo-958545.jpeg?auto=compress&cs=tinysrgb&w=400&h=300&fit=crop',
         chef: 'Chef Meera Patel',
+        chef: 'Chef Kiara Sharma',
         rating: 4.8,
         spicy: 3,
         vegetarian: true,
@@ -95,6 +100,7 @@ const RestaurantSection: React.FC = () => {
         price: 650,
         image: 'https://images.pexels.com/photos/1199957/pexels-photo-1199957.jpeg?auto=compress&cs=tinysrgb&w=400&h=300&fit=crop',
         chef: 'Chef Meera Patel',
+        chef: 'Chef Kiara Sharma',
         rating: 4.6,
         spicy: 1,
         vegetarian: true,
@@ -109,6 +115,7 @@ const RestaurantSection: React.FC = () => {
         price: 750,
         image: 'https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&w=400&h=300&fit=crop',
         chef: 'Chef Meera Patel',
+        chef: 'Chef Kiara Sharma',
         rating: 4.8,
         spicy: 2,
         vegetarian: true,
@@ -270,7 +277,7 @@ const RestaurantSection: React.FC = () => {
             </h3>
             <p className="text-white/90 mb-6 max-w-2xl mx-auto">
               Experience a curated 7-course journey through Mumbai's culinary landscape, 
-              personally crafted by Executive Chef Meera Patel
+              personally crafted by Executive Chef Kiara Sharma
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <button className="bg-white text-sunset-orange px-8 py-4 rounded-full font-semibold hover:bg-cream transition-colors">

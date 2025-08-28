@@ -20,7 +20,7 @@ const CulinaryExperiences: React.FC = () => {
       id: 1,
       title: 'Mumbai Street Food Masterclass',
       category: 'Cooking Class',
-      description: 'Learn to create Mumbai\'s iconic street foods with Chef Meera, from vada pav to pani puri',
+      description: 'Learn to create Mumbai\'s iconic street foods with Chef Kiara, from vada pav to pani puri',
       duration: '3 hours',
       groupSize: '2-8 people',
       price: 2500,
