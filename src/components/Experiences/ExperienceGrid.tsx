@@ -77,7 +77,7 @@ const ExperienceGrid: React.FC<ExperienceGridProps> = ({ onExperienceSelect, onB
       guide: {
         name: 'Reyansh Desai',
         experience: '8 years',
-        image: 'https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&w=200&h=200&fit=crop'
+        image: 'https://images.pexels.com/photos/1040880/pexels-photo-1040880.jpeg?auto=compress&cs=tinysrgb&w=200&h=200&fit=crop'
       }
     },
     {
@@ -106,7 +106,7 @@ const ExperienceGrid: React.FC<ExperienceGridProps> = ({ onExperienceSelect, onB
       guide: {
         name: 'Tara Malhotra',
         experience: '6 years',
-        image: 'https://images.pexels.com/photos/3785079/pexels-photo-3785079.jpeg?auto=compress&cs=tinysrgb&w=200&h=200&fit=crop'
+        image: 'https://images.pexels.com/photos/1102341/pexels-photo-1102341.jpeg?auto=compress&cs=tinysrgb&w=200&h=200&fit=crop'
       }
     },
     {
@@ -134,7 +134,7 @@ const ExperienceGrid: React.FC<ExperienceGridProps> = ({ onExperienceSelect, onB
       guide: {
         name: 'Siddharth Nair',
         experience: '12 years',
-        image: 'https://images.pexels.com/photos/2182970/pexels-photo-2182970.jpeg?auto=compress&cs=tinysrgb&w=200&h=200&fit=crop'
+        image: 'https://images.pexels.com/photos/1121796/pexels-photo-1121796.jpeg?auto=compress&cs=tinysrgb&w=200&h=200&fit=crop'
       }
     },
     {
@@ -162,7 +162,7 @@ const ExperienceGrid: React.FC<ExperienceGridProps> = ({ onExperienceSelect, onB
       guide: {
         name: 'Neil Joshi',
         experience: '10 years',
-        image: 'https://images.pexels.com/photos/2379005/pexels-photo-2379005.jpeg?auto=compress&cs=tinysrgb&w=200&h=200&fit=crop'
+        image: 'https://images.pexels.com/photos/1040881/pexels-photo-1040881.jpeg?auto=compress&cs=tinysrgb&w=200&h=200&fit=crop'
       }
     },
     {
@@ -189,7 +189,7 @@ const ExperienceGrid: React.FC<ExperienceGridProps> = ({ onExperienceSelect, onB
       guide: {
         name: 'Omkar Shetty',
         experience: '15 years',
-        image: 'https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&w=200&h=200&fit=crop'
+        image: 'https://images.pexels.com/photos/1043473/pexels-photo-1043473.jpeg?auto=compress&cs=tinysrgb&w=200&h=200&fit=crop'
       }
     },
     {
@@ -217,7 +217,7 @@ const ExperienceGrid: React.FC<ExperienceGridProps> = ({ onExperienceSelect, onB
       guide: {
         name: 'Captain Yuvan Menon',
         experience: '20 years',
-        image: 'https://images.pexels.com/photos/2182970/pexels-photo-2182970.jpeg?auto=compress&cs=tinysrgb&w=200&h=200&fit=crop'
+        image: 'https://images.pexels.com/photos/1040883/pexels-photo-1040883.jpeg?auto=compress&cs=tinysrgb&w=200&h=200&fit=crop'
       }
     }
   ];

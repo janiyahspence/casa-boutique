@@ -17,7 +17,7 @@ const ChefProfile: React.FC = () => {
     name: 'Kiara Sharma',
     title: 'Executive Chef',
     experience: '12+ years',
-    image: 'https://images.pexels.com/photos/3785077/pexels-photo-3785077.jpeg?auto=compress&cs=tinysrgb&w=600&h=600&fit=crop',
+    image: 'https://images.pexels.com/photos/1130626/pexels-photo-1130626.jpeg?auto=compress&cs=tinysrgb&w=600&h=600&fit=crop',
     bio: 'Chef Kiara Sharma brings over 12 years of culinary excellence to Casa Boutique, specializing in contemporary Indian cuisine that honors traditional flavors while embracing modern techniques. Her passion for Mumbai\'s street food culture and commitment to local ingredients has earned her recognition as one of India\'s most innovative chefs.',
     philosophy: 'Food is the fastest way to understand a culture. Every dish should tell a story of its origin while creating new memories for those who taste it.',
     specialties: [

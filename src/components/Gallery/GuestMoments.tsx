@@ -31,7 +31,7 @@ const GuestMoments: React.FC = () => {
       guest: {
         name: 'Ira Bansal & Riaan Malhotra',
         location: 'Delhi, India',
-        avatar: 'https://images.pexels.com/photos/3785079/pexels-photo-3785079.jpeg?auto=compress&cs=tinysrgb&w=100&h=100&fit=crop',
+        avatar: 'https://images.pexels.com/photos/1181686/pexels-photo-1181686.jpeg?auto=compress&cs=tinysrgb&w=100&h=100&fit=crop',
         verified: true
       },
       category: 'celebrations',
@@ -51,7 +51,7 @@ const GuestMoments: React.FC = () => {
       guest: {
         name: 'Sarah Johnson',
         location: 'London, UK',
-        avatar: 'https://images.pexels.com/photos/3785077/pexels-photo-3785077.jpeg?auto=compress&cs=tinysrgb&w=100&h=100&fit=crop',
+        avatar: 'https://images.pexels.com/photos/1036623/pexels-photo-1036623.jpeg?auto=compress&cs=tinysrgb&w=100&h=100&fit=crop',
         verified: true
       },
       category: 'experiences',
@@ -71,7 +71,7 @@ const GuestMoments: React.FC = () => {
       guest: {
         name: 'Karan Batra & Family',
         location: 'Bangalore, India',
-        avatar: 'https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&w=100&h=100&fit=crop',
+        avatar: 'https://images.pexels.com/photos/1040882/pexels-photo-1040882.jpeg?auto=compress&cs=tinysrgb&w=100&h=100&fit=crop',
         verified: true
       },
       category: 'dining',
@@ -91,7 +91,7 @@ const GuestMoments: React.FC = () => {
       guest: {
         name: 'Emma & David',
         location: 'Sydney, Australia',
-        avatar: 'https://images.pexels.com/photos/3785078/pexels-photo-3785078.jpeg?auto=compress&cs=tinysrgb&w=100&h=100&fit=crop',
+        avatar: 'https://images.pexels.com/photos/1065084/pexels-photo-1065084.jpeg?auto=compress&cs=tinysrgb&w=100&h=100&fit=crop',
         verified: true
       },
       category: 'experiences',
@@ -111,7 +111,7 @@ const GuestMoments: React.FC = () => {
       guest: {
         name: 'Michael Chen',
         location: 'Singapore',
-        avatar: 'https://images.pexels.com/photos/2182970/pexels-photo-2182970.jpeg?auto=compress&cs=tinysrgb&w=100&h=100&fit=crop',
+        avatar: 'https://images.pexels.com/photos/1043474/pexels-photo-1043474.jpeg?auto=compress&cs=tinysrgb&w=100&h=100&fit=crop',
         verified: true
       },
       category: 'rooms',
@@ -131,7 +131,7 @@ const GuestMoments: React.FC = () => {
       guest: {
         name: 'Lisa & Mark',
         location: 'Toronto, Canada',
-        avatar: 'https://images.pexels.com/photos/3785079/pexels-photo-3785079.jpeg?auto=compress&cs=tinysrgb&w=100&h=100&fit=crop',
+        avatar: 'https://images.pexels.com/photos/1065084/pexels-photo-1065084.jpeg?auto=compress&cs=tinysrgb&w=100&h=100&fit=crop',
         verified: true
       },
       category: 'experiences',
@@ -151,7 +151,7 @@ const GuestMoments: React.FC = () => {
       guest: {
         name: 'Saanvi Joshi',
         location: 'Mumbai, India',
-        avatar: 'https://images.pexels.com/photos/3785077/pexels-photo-3785077.jpeg?auto=compress&cs=tinysrgb&w=100&h=100&fit=crop',
+        avatar: 'https://images.pexels.com/photos/1181690/pexels-photo-1181690.jpeg?auto=compress&cs=tinysrgb&w=100&h=100&fit=crop',
         verified: true
       },
       category: 'celebrations',
@@ -171,7 +171,7 @@ const GuestMoments: React.FC = () => {
       guest: {
         name: 'James Wilson',
         location: 'New York, USA',
-        avatar: 'https://images.pexels.com/photos/2379005/pexels-photo-2379005.jpeg?auto=compress&cs=tinysrgb&w=100&h=100&fit=crop',
+        avatar: 'https://images.pexels.com/photos/1040884/pexels-photo-1040884.jpeg?auto=compress&cs=tinysrgb&w=100&h=100&fit=crop',
         verified: true
       },
       category: 'dining',
@@ -191,7 +191,7 @@ const GuestMoments: React.FC = () => {
       guest: {
         name: 'Sophie & Tom',
         location: 'Paris, France',
-        avatar: 'https://images.pexels.com/photos/3785078/pexels-photo-3785078.jpeg?auto=compress&cs=tinysrgb&w=100&h=100&fit=crop',
+        avatar: 'https://images.pexels.com/photos/1065084/pexels-photo-1065084.jpeg?auto=compress&cs=tinysrgb&w=100&h=100&fit=crop',
         verified: true
       },
       category: 'rooms',
