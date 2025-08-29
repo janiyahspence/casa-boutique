@@ -31,7 +31,7 @@ const GuestMoments: React.FC = () => {
       guest: {
         name: 'Ira Bansal & Riaan Malhotra',
         location: 'Delhi, India',
-        avatar: 'https://images.pexels.com/photos/1181686/pexels-photo-1181686.jpeg?auto=compress&cs=tinysrgb&w=100&h=100&fit=crop',
+        avatar: 'https://images.pexels.com/photos/1181519/pexels-photo-1181519.jpeg?auto=compress&cs=tinysrgb&w=100&h=100&fit=crop',
         verified: true
       },
       category: 'celebrations',
@@ -71,7 +71,7 @@ const GuestMoments: React.FC = () => {
       guest: {
         name: 'Karan Batra & Family',
         location: 'Bangalore, India',
-        avatar: 'https://images.pexels.com/photos/1040882/pexels-photo-1040882.jpeg?auto=compress&cs=tinysrgb&w=100&h=100&fit=crop',
+        avatar: 'https://images.pexels.com/photos/1043471/pexels-photo-1043471.jpeg?auto=compress&cs=tinysrgb&w=100&h=100&fit=crop',
         verified: true
       },
       category: 'dining',
@@ -111,7 +111,7 @@ const GuestMoments: React.FC = () => {
       guest: {
         name: 'Michael Chen',
         location: 'Singapore',
-        avatar: 'https://images.pexels.com/photos/1043474/pexels-photo-1043474.jpeg?auto=compress&cs=tinysrgb&w=100&h=100&fit=crop',
+        avatar: 'https://images.pexels.com/photos/1040882/pexels-photo-1040882.jpeg?auto=compress&cs=tinysrgb&w=100&h=100&fit=crop',
         verified: true
       },
       category: 'rooms',
@@ -151,7 +151,7 @@ const GuestMoments: React.FC = () => {
       guest: {
         name: 'Saanvi Joshi',
         location: 'Mumbai, India',
-        avatar: 'https://images.pexels.com/photos/1181690/pexels-photo-1181690.jpeg?auto=compress&cs=tinysrgb&w=100&h=100&fit=crop',
+        avatar: 'https://images.pexels.com/photos/1181686/pexels-photo-1181686.jpeg?auto=compress&cs=tinysrgb&w=100&h=100&fit=crop',
         verified: true
       },
       category: 'celebrations',
@@ -171,7 +171,7 @@ const GuestMoments: React.FC = () => {
       guest: {
         name: 'James Wilson',
         location: 'New York, USA',
-        avatar: 'https://images.pexels.com/photos/1040884/pexels-photo-1040884.jpeg?auto=compress&cs=tinysrgb&w=100&h=100&fit=crop',
+        avatar: 'https://images.pexels.com/photos/1040883/pexels-photo-1040883.jpeg?auto=compress&cs=tinysrgb&w=100&h=100&fit=crop',
         verified: true
       },
       category: 'dining',
